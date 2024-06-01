@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning sections of android 
 - 💞️ I’m looking to collaborate on public company 
 - 📫 How to reach me eslammahmood169@gmail.com
-- ⚡ Fun fact: always hope to be better than before
+- ⚡ Fun fact: They always write our achievements on the water and our faults on a stone so print('Ingnore and develop');🤺🌹
+  
