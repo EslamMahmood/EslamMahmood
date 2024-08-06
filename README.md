@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EslamMahmood
+- 👋 Hi, I’m @Eslam Mahmood Abdullah
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning sections of android 
 - 💞️ I’m looking to collaborate on public company 
